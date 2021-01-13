@@ -1,5 +1,7 @@
 package com.yidu.t286;
 
+import java.util.Date;
+
 /**
  * 功能：
  * 作者：燕兵
@@ -16,5 +18,6 @@ public class FirstClass {
         System.out.println("helloGit");
         System.out.println("helloGit");
         //修改
+        System.out.println(new Date());
     }
 }
